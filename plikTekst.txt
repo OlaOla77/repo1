@@ -1,2 +1,3 @@
 Jakis plik tekstowy
 GIT
+trzecia linijka
