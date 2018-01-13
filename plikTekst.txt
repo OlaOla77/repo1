@@ -10,4 +10,6 @@ zmiana master rebase
 
 branch zmiana
 
-master zmiana stara
+
+nowa zmiana
+
