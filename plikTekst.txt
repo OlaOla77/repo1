@@ -2,4 +2,6 @@ Jakis plik tekstowy
 GIT
 trzecia linijka
 czwarta
+
 zmiana na masterze
+
