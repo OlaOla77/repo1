@@ -13,4 +13,6 @@ branch zmiana
 
 nowa zmiana
 
+
 zmiana master remote
+
