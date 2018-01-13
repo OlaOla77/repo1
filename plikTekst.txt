@@ -2,3 +2,4 @@ Jakis plik tekstowy
 GIT
 trzecia linijka
 czwarta
+pi¹ta b³ad
